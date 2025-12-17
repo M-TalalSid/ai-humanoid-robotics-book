@@ -7,13 +7,13 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://talalchaudhary.github.io',
+  url: 'https://github.com/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub Pages deployment, it's usually '/<project-name>/'
   baseUrl: '/ai-humanoid-robotics-book/',
 
   // GitHub pages deployment config.
-  organizationName: 'talalchaudhary',
+  organizationName: 'M-TalalSid',
   projectName: 'ai-humanoid-robotics-book',
   deploymentBranch: 'gh-pages',
 
@@ -38,7 +38,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/talalchaudhary/ai-humanoid-robotics-book/tree/main/',
+            'https://github.com/M-TalalSid/ai-humanoid-robotics-book/tree/main/',
         },
         blog: false, // Disable blog for this project
         theme: {
@@ -67,7 +67,7 @@ const config = {
             label: 'Book',
           },
           {
-            href: 'https://github.com/talalchaudhary/ai-humanoid-robotics-book',
+            href: 'https://github.com/M-TalalSid/ai-humanoid-robotics-book',
             label: 'GitHub',
             position: 'right',
           },
@@ -90,7 +90,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/talalchaudhary/ai-humanoid-robotics-book',
+                href: 'https://github.com/M-TalalSid/ai-humanoid-robotics-book',
               },
             ],
           },
